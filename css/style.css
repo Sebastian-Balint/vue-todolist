@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header.container-fluid {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(28, 28, 183, 0.833);
+}
+
+.row {
+  width: 100%;
+}
+
+h1.col-auto {
+  font-weight: 700;
+  color: white;
+}
+
+ul.card {
+  width: 300px;
+}
+
+input {
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.true {
+  text-decoration: line-through;
+}
+
+.card {
+  user-select: none;
+}
